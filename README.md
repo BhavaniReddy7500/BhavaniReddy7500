@@ -9,6 +9,7 @@
 🖥️ Programming Languages: C++, Java, Python, R, C, Dart, HTML, CSS, JavaScript
 ⚙️ Development: Object-Oriented Design (OOD), Data Structures & Algorithms, REST APIs
 🛠️ Tools & Frameworks: Git, GitHub, Flutter, Docker, Kubernetes
+📊 Visualization: Tableau
 🗄️ Databases: NoSQL, Basic Database Management
 💻 Operating Systems: Windows, Linux, MacOS
 💬 Soft Skills: Problem Solving, Adaptability, Teamwork, Time Management, Communication
@@ -25,3 +26,6 @@ Intermediate (MPC)
 📫 Connect With Me
 📧 Email: patlollasaibhavani2@gmail.com
 🔗 LinkedIn: linkedin.com/in/saibhavanipatlolla
+
+
+
